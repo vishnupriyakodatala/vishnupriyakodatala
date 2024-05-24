@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishnupriyakodatala
 - 👀 I’m interested in web development & problem solveing.
 - 🌱 I’m currently learning full stack developemnt. 
-- 💞️ I’m looking to intership on web development.
+- 💞️ I’m looking for intenrship on web development.
 
 <!---
 vishnupriyakodatala/vishnupriyakodatala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
