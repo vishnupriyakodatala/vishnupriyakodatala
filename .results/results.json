@@ -1,0 +1,1 @@
+{"test_case_results": [{"test_case_id": "com.example.datefinder.GetDateTests.testGetDate", "evaluation_result": "CORRECT"}, {"test_case_id": "com.example.datefinder.SmokeTest.contextLoads", "evaluation_result": "CORRECT"}]}
