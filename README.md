@@ -9,9 +9,9 @@ The `plusDays()` method can be used to calculate the date after 100 days.
 **Do not modify the `Application` class.**
 =======
 - 👋 Hi, I’m @vishnupriyakodatala
-- 👀 I’m interested in web development & problem solveing.
+- 👀 I’m interested in full stack development & problem solving.
 - 🌱 I’m currently learning full stack developemnt. 
-- 💞️ I’m looking for intenrship on web development.
+- 💞️ I’m looking for intenrship on full stack development.
 
 <!---
 vishnupriyakodatala/vishnupriyakodatala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
